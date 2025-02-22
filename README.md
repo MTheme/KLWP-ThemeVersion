@@ -2,15 +2,6 @@
 
 Welcome to the **KLWP Theme Version** repository! This project contains the version history and changelogs for various KLWP (Kustom Live Wallpaper) themes.
 
-## Changelogs
-
-### iMagine UI for KLWP
-
-- **Version:** 1.0
-- **Release Date:** 2021-07-01
-- **Changelog:**
-  - Initial release
-
 ## How to Use
 
 1. Review the changelog for the desired theme.
