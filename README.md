@@ -1,8 +1,8 @@
 # KLWP Theme Version
 
-Welcome to the **KLWP Theme Version** repository! This project contains various themes for KLWP (Kustom Live Wallpaper) along with their version history and changelogs.
+Welcome to the **KLWP Theme Version** repository! This project contains the version history and changelogs for various KLWP (Kustom Live Wallpaper) themes.
 
-## Themes
+## Changelogs
 
 ### iMagine UI for KLWP
 
@@ -13,18 +13,19 @@ Welcome to the **KLWP Theme Version** repository! This project contains various 
 
 ## How to Use
 
-1. Download the desired theme from the list.
-2. Import the theme into KLWP.
-3. Apply the theme and customize it as per your preference.
+1. Review the changelog for the desired theme.
+2. Download the theme from the appropriate source.
+3. Import the theme into KLWP.
+4. Apply the theme and customize it as per your preference.
 
 ## Contributing
 
-We welcome contributions! If you have a theme you'd like to add or improvements to suggest, please follow these steps:
+We welcome contributions! If you have updates or improvements to suggest, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Make your changes.
-4. Commit your changes (`git commit -m 'Add new theme'`).
+4. Commit your changes (`git commit -m 'Update changelog'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
