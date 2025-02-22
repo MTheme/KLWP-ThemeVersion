@@ -1,0 +1,14 @@
+{
+    "list": [
+        {
+            "name": "iMagine UI for KLWP",
+            "changelog": [
+                {
+                    "content": "- Initial release",
+                    "date": "2021-07-01",
+                    "version": "1.0"
+                }
+            ]
+        }
+    ]
+}
