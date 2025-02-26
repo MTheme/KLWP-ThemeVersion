@@ -1,11 +1,11 @@
 {
     "list": [
         {
-            "id": "1",
+            "id": "0",
             "name": "iMagine UI for KLWP",
             "changelog": [
                 {
-                    "id": "1",
+                    "id": "0",
                     "content": "- Initial release",
                     "version": "1.0.0",
                     "date": "2025-02-29"
