@@ -18,12 +18,12 @@
             "id": "1",
             "name": "SILK UI for KLWP",
             "url": "https://play.google.com/store/apps/details?id=silk.moran.tgc.pack",
-            "image": "https://raw.githubusercontent.com/MTheme/KLWP-ThemeVersion/refs/heads/main/logo/iMagine.png",
+            "image": "https://raw.githubusercontent.com/MTheme/KLWP-ThemeVersion/refs/heads/main/logo/SILK.png",
             "changelog": [
                 {
                     "id": "0",
-                    "content": "- Initial release",
-                    "version": "1.0.0",
+                    "content": "- [New]：Lyrics scrolling feature\n- [Fixed]：Corrected wallpaper misalignment on the new app page",
+                    "version": "2.6.0",
                     "date": "2025-02-29"
                 }
             ]
