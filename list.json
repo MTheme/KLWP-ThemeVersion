@@ -22,8 +22,22 @@
             "changelog": [
                 {
                     "id": "0",
-                    "content": "- [New]：Lyrics scrolling feature\n- [Fixed]：Corrected wallpaper misalignment on the new app page",
+                    "content": "- [New] Lyrics scrolling feature\n- [Fixed] Corrected wallpaper misalignment on the new app page",
                     "version": "2.6.0",
+                    "date": "2025-02-29"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Edge UI for KLWP",
+            "url": "https://play.google.com/store/apps/details?id=edge.moran.tgc.pack",
+            "image": "https://raw.githubusercontent.com/MTheme/KLWP-ThemeVersion/refs/heads/main/logo/MORAN.png",
+            "changelog": [
+                {
+                    "id": "0",
+                    "content": "- [New] Add one more event.\n[New] Add update reminder.\n[Fixed] Fix calendar.",
+                    "version": "1.7.0",
                     "date": "2025-02-29"
                 }
             ]
