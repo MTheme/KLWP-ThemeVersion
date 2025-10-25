@@ -55,6 +55,20 @@
                     "date": "2025-10-25"
                 }
             ]
+        },
+        {
+            "id": "4",
+            "name": "Dazzle UI for KLWP",
+            "url": "https://play.google.com/store/apps/details?id=dazzle.moran.tgc.pack",
+            "image": "https://raw.githubusercontent.com/MTheme/KLWP-ThemeVersion/refs/heads/main/logo/Dazzle.png",
+            "changelog": [
+                {
+                    "id": "0",
+                    "content": "- [New] Update App API. \n- [New] Add Music Lyrics.",
+                    "version": "6.5.0",
+                    "date": "2025-10-25"
+                }
+            ]
         }
     ]
 }
