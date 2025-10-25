@@ -41,6 +41,20 @@
                     "date": "2025-02-29"
                 }
             ]
+        },
+        {
+            "id": "3",
+            "name": "Zero UI for KLWP",
+            "url": "https://play.google.com/store/apps/details?id=zero.moran.tgc.pack",
+            "image": "https://raw.githubusercontent.com/MTheme/KLWP-ThemeVersion/refs/heads/main/logo/Zero.png",
+            "changelog": [
+                {
+                    "id": "0",
+                    "content": "- [New] Update App API.",
+                    "version": "2.5.0",
+                    "date": "2025-10-25"
+                }
+            ]
         }
     ]
 }
