@@ -69,6 +69,20 @@
                     "date": "2025-10-25"
                 }
             ]
+        },
+        {
+            "id": "5",
+            "name": "Honkai Star Rail for KLWP",
+            "url": "https://play.google.com/store/apps/details?id=hsr.moran.mtheme.pack",
+            "image": "https://raw.githubusercontent.com/MTheme/KLWP-ThemeVersion/refs/heads/main/logo/HSR.png",
+            "changelog": [
+                {
+                    "id": "0",
+                    "content": "- [New] Update App API.",
+                    "version": "2.5.0",
+                    "date": "2025-10-25"
+                }
+            ]
         }
     ]
 }
