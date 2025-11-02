@@ -35,8 +35,14 @@
             "image": "https://raw.githubusercontent.com/MTheme/KLWP-ThemeVersion/refs/heads/main/logo/Edge.jpg",
             "changelog": [
                 {
+                    "id": "1",
+                    "content": "[Fixed] Theme failed to load\n[Fixed] Update check not working\n[Updated] Optimized initialization screen",
+                    "version": "1.8.0",
+                    "date": "2025-11-02"
+                },
+                {
                     "id": "0",
-                    "content": "- [New] Add one more event.\n[New] Add update reminder.\n[Fixed] Fix calendar.",
+                    "content": "[New] Add one more event.\n[New] Add update reminder.\n[Fixed] Fix calendar.",
                     "version": "1.7.0",
                     "date": "2025-02-29"
                 }
