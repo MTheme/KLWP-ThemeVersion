@@ -21,10 +21,16 @@
             "image": "https://raw.githubusercontent.com/MTheme/KLWP-ThemeVersion/refs/heads/main/logo/SILK.png",
             "changelog": [
                 {
-                    "id": "0",
+                    "id": "1",
                     "content": "- [ADDED] Lyrics scrolling feature\n- [Fixed] Corrected wallpaper misalignment on the new app page",
                     "version": "2.6.0",
                     "date": "2025-02-29"
+                },
+                {
+                    "id": "0",
+                    "content": "- [BREAKING] Testing",
+                    "version": "2.4.0",
+                    "date": "2025-01-29"
                 }
             ]
         },
