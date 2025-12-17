@@ -22,7 +22,7 @@
             "changelog": [
                 {
                     "id": "0",
-                    "content": "- [New] Lyrics scrolling feature\n- [Fixed] Corrected wallpaper misalignment on the new app page",
+                    "content": "- [ADDED] Lyrics scrolling feature\n- [Fixed] Corrected wallpaper misalignment on the new app page",
                     "version": "2.6.0",
                     "date": "2025-02-29"
                 }
@@ -42,7 +42,7 @@
                 },
                 {
                     "id": "0",
-                    "content": "[New] Add one more event.\n[New] Add update reminder.\n[Fixed] Fix calendar.",
+                    "content": "[ADDED] Add one more event.\n[ADDED] Add update reminder.\n[Fixed] Fix calendar.",
                     "version": "1.7.0",
                     "date": "2025-02-29"
                 }
@@ -56,7 +56,7 @@
             "changelog": [
                 {
                     "id": "0",
-                    "content": "- [New] Update App API.",
+                    "content": "- [ADDED] Update App API.",
                     "version": "2.5.0",
                     "date": "2025-10-25"
                 }
@@ -70,7 +70,7 @@
             "changelog": [
                 {
                     "id": "0",
-                    "content": "- [New] Update App API. \n- [New] Add Music Lyrics.",
+                    "content": "- [ADDED] Update App API. \n- [ADDED] Add Music Lyrics.",
                     "version": "6.5.0",
                     "date": "2025-10-25"
                 }
@@ -84,7 +84,7 @@
             "changelog": [
                 {
                     "id": "0",
-                    "content": "- [New] Update App API.",
+                    "content": "- [ADDED] Update App API.",
                     "version": "2.5.0",
                     "date": "2025-10-25"
                 }
