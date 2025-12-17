@@ -22,7 +22,7 @@
             "changelog": [
                 {
                     "id": "1",
-                    "content": "- [ADDED] Lyrics scrolling feature\n- [Fixed] Corrected wallpaper misalignment on the new app page",
+                    "content": "- [ADDED] Lyrics scrolling feature\n- [FIXED] Corrected wallpaper misalignment on the new app page",
                     "version": "2.6.0",
                     "date": "2025-02-29"
                 },
@@ -42,13 +42,13 @@
             "changelog": [
                 {
                     "id": "1",
-                    "content": "[Fixed] Theme failed to load\n[Fixed] Update check not working\n[Updated] Optimized initialization screen",
+                    "content": "[FIXED] Theme failed to load\n[FIXED] Update check not working\n[IMPROVED] Optimized initialization screen",
                     "version": "1.8.0",
                     "date": "2025-11-02"
                 },
                 {
                     "id": "0",
-                    "content": "[ADDED] Add one more event.\n[ADDED] Add update reminder.\n[Fixed] Fix calendar.",
+                    "content": "[ADDED] Add one more event.\n[ADDED] Add update reminder.\n[FIXED] Fix calendar.",
                     "version": "1.7.0",
                     "date": "2025-02-29"
                 }
