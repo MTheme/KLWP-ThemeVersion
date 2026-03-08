@@ -21,6 +21,12 @@
             "image": "https://raw.githubusercontent.com/MTheme/KLWP-ThemeVersion/refs/heads/main/logo/SILK.png",
             "changelog": [
                 {
+                    "id": "2",
+                    "content": "- [IMPROVED] Redesigned several components, including the music cover, app page, news page, calendar events, and home time widget.\n- [CHANGED] Air Quality Index (AQI) is now displayed as a curve graph for the upcoming hours.\n- [ADDED] Adapted to the brand-new app.",
+                    "version": "2.7.0",
+                    "date": "2026-03-08"
+                },
+                {
                     "id": "1",
                     "content": "- [ADDED] Lyrics scrolling feature\n- [FIXED] Corrected wallpaper misalignment on the new app page",
                     "version": "2.6.0",
