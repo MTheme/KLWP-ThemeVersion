@@ -47,6 +47,12 @@
             "image": "https://raw.githubusercontent.com/MTheme/KLWP-ThemeVersion/refs/heads/main/logo/Edge.jpg",
             "changelog": [
                 {
+                    "id": "2",
+                    "content": "- [ADDED] Update API.\n- [ADDED] Update App.\n- [FIXED] Fixed known issues.",
+                    "version": "1.8.5",
+                    "date": "2026-03-08"
+                },
+                {
                     "id": "1",
                     "content": "[FIXED] Theme failed to load\n[FIXED] Update check not working\n[IMPROVED] Optimized initialization screen",
                     "version": "1.8.0",
